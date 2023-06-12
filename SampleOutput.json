@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "\"If MS Dhoni Isn't Captain, He Won't Even...\": Virender Sehwag On Thala's Future - NDTV Sports",
+      "description": "MS Dhoni hasn't yet revealed if he would continue to play for CSK beyond IPL 2023 season.",
+      "url": "https://sports.ndtv.com/ipl-2023/why-impact-player-rule-doesnt-apply-on-ms-dhoni-virender-sehwag-explains-4074971",
+      "urlToImage": "https://c.ndtvimg.com/2023-05/vloc66hg_ms-dhoni-bcci_625x300_29_May_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2023-05-29T10:05:00Z",
+      "content": "The arrival of 'Impact Player' rule gave many players the opportunity to prolong their careers. The likes of Faf du Plessis and Rohit Sharma were seen making use of the rule in the Indian Premier Lea… [+1632 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Rahul Pandey",
+      "title": "CSK vs GT Live Score, IPL 2023 Final: Gujarat Titans vs Chennai Super Kings match moved to reserve day after rain persists - The Indian Express",
+      "description": "IPL 2023 Final Live Updates, CSK vs GT Match Today: Defending champions take on four-time winners as Gill gets ready to spoil Dhoni's farewell party.",
+      "url": "https://indianexpress.com/article/sports/cricket/csk-vs-gt-live-score-ipl-2023-final-chennai-super-kings-vs-gujarat-titans-latest-scorecard-updates-narendra-modi-stadium-8633055/",
+      "urlToImage": "https://images.indianexpress.com/2023/05/csk-vs-gt-live.jpeg",
+      "publishedAt": "2023-05-28T18:47:14Z",
+      "content": "Gujarat Titans Squad: Wriddhiman Saha(w), Shubman Gill, Sai Sudharsan, Hardik Pandya(c), Vijay Shankar, David Miller, Rahul Tewatia, Rashid Khan, Mohit Sharma, Noor Ahmad, Mohammed Shami, Joshua Litt… [+1716 chars]"
+    }
+  ]
+}
