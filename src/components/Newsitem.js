@@ -10,7 +10,7 @@ export class Newsitem extends Component {
 
                 <div className="card">
                     <img src={!imageUrl ? "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_06_2023_10_07_59_4110459.jpg?width=920&format=jpeg" : imageUrl} className="card-img-top" alt="..." />
-                    <div className="card-body">
+                    <div className="card-body" >
                         <span style={ {left: '90%' , zIndex: '1'}} class="position-absolute top-0  translate-middle badge rounded-pill bg-danger">
                             {source}
                             
