@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class Newsitem extends Component {
+const Newsitem = (props)=> {
 
-    render() {
-        let { title, description, imageUrl, newsUrl, author, date, source, } = this.props;
+    
+        let { title, description, imageUrl, newsUrl, author, date, source, } = props;
         return (
             <div className="my-3">
 
@@ -19,12 +19,12 @@ export class Newsitem extends Component {
                         <h5 className="card-title">{title}...</h5>
                         <p className="card-text">{description}...</p>
                         <p className="card-text"><small className="text-danger">By {!author ? "unknown" : author} on {new Date(date).toGMTString()}</small></p>
-                        <a href={newsUrl} target="_blank" className="btn btn-sm btn-dark">Go somewhere</a>
+                        <a href={newsUrl} rel="noreferrer"className="btn btn-sm btn-dark">Go somewhere</a>
                     </div>
                 </div>
             </div>
         )
-    }
+    
 }
 
 export default Newsitem
